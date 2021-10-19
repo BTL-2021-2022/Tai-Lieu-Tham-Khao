@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="DatHangNCC\frmChiTietDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DatHangNCC\frmDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DatHangNCC\FrmTatCaDonDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoHang\frChiTietDonNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoHang\frHoaDonNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoHang\frNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoHang\frNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoHang\frNhapHangDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\DoiTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmChonHDDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmDanhSachDonDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmHDBanTheoKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmHDBanTheoNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmHoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmKhachHangCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmKHDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmListSp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmSPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\frmTaoHDBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySanPham\HoaDon7Ngay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\frmTaiKhoan_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\TaiKhoan_CaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe\frmDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe\frmSanPhamCanNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
